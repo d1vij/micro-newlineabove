@@ -1,0 +1,8 @@
+{
+  "Name": "newlineabove",
+  "Description": "Insert a new line above the current line with Ctrl+P",
+  "Version": "1.0.0",
+  "Author": "@d1vij",
+  "Repository": "https://github.com/d1vij/micro-newlineabove",
+  "License": "MIT"
+}
